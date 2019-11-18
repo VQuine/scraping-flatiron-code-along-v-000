@@ -21,6 +21,12 @@ class Scraper #parse a web page's HTML & pull pertinent data
 
   end
 
+  def get_courses
+  end
+
+  def make_courses
+  end
+
 
 
 
