@@ -18,7 +18,7 @@ class Scraper #parse a web page's HTML & pull pertinent data
     #   course.schedule = post.css(".date").text
     #   course.description = post.css(".p").text
     # end
-    
+
   end
 
 
@@ -28,5 +28,3 @@ class Scraper #parse a web page's HTML & pull pertinent data
 
 
 end #<----CLASS END
-
-
